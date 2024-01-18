@@ -12,6 +12,10 @@ class ProductController extends Controller
       return view('tienda', compact('products'));
      }
 
+     function productHomeCards(){
+      $products = Product::all();  
+      return view('index', compact('products')); 
+     }
      function createProduct(){
 
        return view('createProduct');

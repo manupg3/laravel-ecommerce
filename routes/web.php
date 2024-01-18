@@ -14,15 +14,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-})->name('home');
-
 Route::get('/about', function () {
     return view('about');
 })->name('about');
 
 Route::get('/tienda', [ProductController::class, 'index'])->name('tienda');
+
+Route::get('/', [ProductController::class, 'productHomeCards'])->name('home');;
 
 Route::get('/createProduct', [ProductController::class, 'createProduct'])->name('createProduct');
 
