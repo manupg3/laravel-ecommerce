@@ -1,0 +1,81 @@
+[Info  - 15:11:03] Initialising intelephense 1.10.2
+[Info  - 15:11:03] Initialised in 6 ms
+[Info  - 15:11:03] Environment changed. Refreshing 1 in memory documents.
+[Info  - 15:11:03] Searching file:///root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.10.2/node_modules/intelephense/lib/stub for files to index.
+[Info  - 15:11:03] Searching file:///opt/lampp/htdocs/laravel-ecommerce for files to index.
+[Warn  - 15:11:03] file:///opt/lampp/htdocs/laravel-ecommerce/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 15:11:03] Indexing started.
+[Info  - 15:11:04] Searching file:///opt/lampp/htdocs/laravel-ecommerce/~/.vscode-root/User/globalStorage/bmewburn.vscode-intelephense-client for files to index.
+[Info  - 15:11:04] Searching file:///opt/lampp/htdocs/laravel-ecommerce/~/.vscode-root/User/workspaceStorage/6132751978213c0fb40fa78d6aa78fe4/bmewburn.vscode-intelephense-client for files to index.
+[Info  - 15:11:09] Indexing ended. 7371 files indexed in 5s.
+[Info  - 15:11:09] Writing state to /opt/lampp/htdocs/laravel-ecommerce/~/.vscode-root/User/workspaceStorage/6132751978213c0fb40fa78d6aa78fe4/bmewburn.vscode-intelephense-client/1b67cc98.
+[Info  - 15:11:10] Wrote state in 0.6s.
+[Info  - 15:20:44] Searching file:///opt/lampp/htdocs/laravel-ecommerce/~/.vscode-root/User/History/-401cee0d for files to index.
+[Warn  - 15:20:44] Error: ENOENT: no such file or directory, stat '/opt/lampp/htdocs/laravel-ecommerce/~/.vscode-root/Backups/8a0eb80b5d97134387f2cee3f1c9eb6b/file/53cdfa9f'
+[Warn  - 18:58:43] Error: ENOENT: no such file or directory, stat '/opt/lampp/htdocs/laravel-ecommerce/~/.vscode-root/User/workspaceStorage/6132751978213c0fb40fa78d6aa78fe4/state.vscdb-journal'
+[Info  - 10:08:49] Searching file:///opt/lampp/htdocs/laravel-ecommerce/bootstrap/cache for files to index.
+[Info  - 10:08:49] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage for files to index.
+[Info  - 10:08:49] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/app for files to index.
+[Info  - 10:08:49] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/app/public for files to index.
+[Info  - 10:08:49] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework for files to index.
+[Info  - 10:08:49] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/cache for files to index.
+[Info  - 10:08:49] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/cache/data for files to index.
+[Info  - 10:08:49] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/sessions for files to index.
+[Info  - 10:08:49] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/testing for files to index.
+[Info  - 10:08:49] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/views for files to index.
+[Info  - 10:08:49] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/logs for files to index.
+[Info  - 10:08:49] Indexing started.
+[Info  - 10:08:49] Indexing ended. 40 files indexed in 0s.
+[Info  - 10:09:14] Searching file:///opt/lampp/htdocs/laravel-ecommerce/bootstrap/cache for files to index.
+[Info  - 10:09:14] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage for files to index.
+[Info  - 10:09:14] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/app for files to index.
+[Info  - 10:09:14] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/app/public for files to index.
+[Info  - 10:09:14] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework for files to index.
+[Info  - 10:09:14] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/cache for files to index.
+[Info  - 10:09:14] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/cache/data for files to index.
+[Info  - 10:09:14] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/sessions for files to index.
+[Info  - 10:09:14] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/testing for files to index.
+[Info  - 10:09:14] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/views for files to index.
+[Info  - 10:09:14] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/logs for files to index.
+[Info  - 10:09:14] Indexing started.
+[Info  - 10:09:14] Indexing ended. 40 files indexed in 0s.
+[Info  - 10:09:37] Searching file:///opt/lampp/htdocs/laravel-ecommerce/bootstrap/cache for files to index.
+[Info  - 10:09:37] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage for files to index.
+[Info  - 10:09:37] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/app for files to index.
+[Info  - 10:09:37] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/app/public for files to index.
+[Info  - 10:09:37] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework for files to index.
+[Info  - 10:09:37] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/cache for files to index.
+[Info  - 10:09:37] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/cache/data for files to index.
+[Info  - 10:09:37] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/sessions for files to index.
+[Info  - 10:09:37] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/testing for files to index.
+[Info  - 10:09:37] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/views for files to index.
+[Info  - 10:09:37] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/logs for files to index.
+[Info  - 10:09:37] Indexing started.
+[Info  - 10:09:37] Indexing ended. 40 files indexed in 0s.
+[Info  - 10:17:48] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage for files to index.
+[Info  - 10:17:48] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/app for files to index.
+[Info  - 10:17:48] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/app/public for files to index.
+[Info  - 10:17:48] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework for files to index.
+[Info  - 10:17:48] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/cache for files to index.
+[Info  - 10:17:48] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/cache/data for files to index.
+[Info  - 10:17:48] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/sessions for files to index.
+[Info  - 10:17:48] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/testing for files to index.
+[Info  - 10:17:48] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/views for files to index.
+[Info  - 10:17:48] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/logs for files to index.
+[Info  - 10:17:48] Indexing started.
+[Info  - 10:17:49] Indexing ended. 36 files indexed in 0s.
+[Info  - 10:17:59] Searching file:///opt/lampp/htdocs/laravel-ecommerce/bootstrap/cache for files to index.
+[Info  - 10:17:59] Indexing started.
+[Info  - 10:17:59] Indexing ended. 4 files indexed in 0s.
+[Info  - 10:18:10] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage for files to index.
+[Info  - 10:18:10] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/app for files to index.
+[Info  - 10:18:10] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/app/public for files to index.
+[Info  - 10:18:10] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework for files to index.
+[Info  - 10:18:10] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/cache for files to index.
+[Info  - 10:18:10] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/cache/data for files to index.
+[Info  - 10:18:10] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/sessions for files to index.
+[Info  - 10:18:10] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/testing for files to index.
+[Info  - 10:18:10] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/framework/views for files to index.
+[Info  - 10:18:10] Searching file:///opt/lampp/htdocs/laravel-ecommerce/storage/logs for files to index.
+[Info  - 10:18:10] Indexing started.
+[Info  - 10:18:10] Indexing ended. 36 files indexed in 0s.

@@ -1,0 +1,21 @@
+2024-01-08 18:49:42.980 [info] Extension host with pid 115911 started
+2024-01-08 18:49:43.007 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-08 18:49:43.033 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-08 18:49:43.117 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-08 18:49:43.217 [info] Eager extensions activated
+2024-01-08 18:49:43.337 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-08 18:49:43.340 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-08 18:50:10.676 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-08 18:50:10.690 [info] Extension host with pid 115911 exiting with code 0
+2024-01-08 18:50:11.503 [info] Extension host with pid 116038 started
+2024-01-08 18:50:11.503 [info] Skipping acquiring lock for /opt/lampp/htdocs/laravel-ecommerce/~/.vscode-root/User/workspaceStorage/6132751978213c0fb40fa78d6aa78fe4.
+2024-01-08 18:50:11.628 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-01-08 18:50:11.648 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-01-08 18:50:11.699 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-08 18:50:11.751 [info] Eager extensions activated
+2024-01-08 18:50:11.776 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-08 18:50:11.778 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-08 18:50:13.663 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-01-08 18:50:26.418 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-01-08 18:50:26.433 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-08 22:06:32.351 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
